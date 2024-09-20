@@ -2,6 +2,7 @@
 
 ##########################
 #### SCOPE ###############
+##########################
 
 VIP user wanted to know that if we can provide user a metrics to monitor 
 Active connections and Rejected connections for their managed instace.
