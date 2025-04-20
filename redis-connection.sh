@@ -4,9 +4,8 @@
 #### SCOPE ###############
 ##########################
 
-VIP user wanted to know that if we can provide user a metrics to monitor 
-Active connections and Rejected connections for their managed instace.
-As we do not provide a metrics for this suggested user to use below script,
+User wanted to monitor Active connections and Rejected connections for their managed redis instance.
+As we do not provide a metrics for this, we suggested user to use below script,
 and run it as a cron job every minute. 
 
 # Define Redis connection parameters
