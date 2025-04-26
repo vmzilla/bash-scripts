@@ -55,7 +55,7 @@ echo ${#FRUITS[@]}      # Array length
 
 # Control Flow
 
-* Conditional Statements *
+* Conditional Statements
 
 ## If-else statement
 
